@@ -1,0 +1,38 @@
+2014-10-11 18:01:55 INFO  SharePriceProcessor:24 - Inside shareprice
+2014-10-11 18:45:17 INFO  SharePriceProcessor:24 - Inside shareprice
+2014-10-11 20:32:21 ERROR CsvAccessDAO:59 - Cannot locate given File: resource/abc.csv
+2014-10-11 20:32:58 ERROR CsvAccessDAO:59 - Cannot locate given File: resource/abc.csv
+2014-10-11 20:34:57 ERROR CsvAccessDAO:59 - Cannot locate given File: resource/abc.csv
+2014-10-11 21:24:28 INFO  CsvAccessDAO:66 - CSV file processing completed.
+2014-10-11 21:25:03 ERROR CsvAccessDAO:42 - Wrong formatted CSV file
+2014-10-11 21:30:17 ERROR CsvAccessDAO:42 - Wrong formatted CSV file
+2014-10-11 21:30:17 ERROR CsvAccessDAO:69 - One of the share value is not in correct Number Format- This will lead to Invalid Output
+2014-10-11 21:37:33 ERROR CsvAccessDAO:50 - Wrong formatted CSV file
+2014-10-11 21:37:33 ERROR CsvAccessDAO:77 - One of the share value is not in correct Number Format- This will lead to Invalid Output
+2014-10-11 21:37:33 ERROR CsvAccessDAO:81 - Cannot locate given File: resource/share_data_blankfile.csv
+2014-10-11 21:38:08 ERROR CsvAccessDAO:50 - Wrong formatted CSV file
+2014-10-11 21:38:08 ERROR CsvAccessDAO:77 - One of the share value is not in correct Number Format- This will lead to Invalid Output
+2014-10-11 21:38:08 ERROR CsvAccessDAO:40 - Blank CSV file
+2014-10-11 21:45:17 INFO  ShareAnalysisRunner:25 - Processing file :/home/juhi/Downloads/test_shares_data1.csv
+2014-10-11 21:45:17 ERROR CsvAccessDAO:81 - Cannot locate given File: /home/juhi/Downloads/test_shares_data1.csv
+2014-10-11 21:45:43 INFO  ShareAnalysisRunner:25 - Processing file :resource/test_shares_data.csv
+2014-10-11 21:45:43 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 21:50:55 ERROR CsvAccessDAO:50 - Wrong formatted CSV file
+2014-10-11 21:50:55 ERROR CsvAccessDAO:77 - One of the share value is not in correct Number Format- This will lead to Invalid Output
+2014-10-11 21:50:55 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 21:50:55 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 21:52:04 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 21:52:59 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 21:54:00 ERROR CsvAccessDAO:50 - Wrong formatted CSV file
+2014-10-11 21:54:00 ERROR CsvAccessDAO:77 - One of the share value is not in correct Number Format- This will lead to Invalid Output
+2014-10-11 21:54:00 ERROR CsvAccessDAO:40 - Blank CSV file
+2014-10-11 21:54:00 INFO  CsvAccessDAO:74 - CSV file processing completed.
+2014-10-11 22:06:51 ERROR CsvAccessDAO:83 - Cannot locate given File
+2014-10-11 22:07:34 ERROR CsvAccessDAO:83 - Cannot locate given File
+2014-10-11 22:07:47 ERROR CsvAccessDAO:42 - Blank CSV file
+2014-10-11 22:17:13 INFO  ShareAnalysisRunner:25 - Starting Processing file :resource/test_shares_data.csv
+2014-10-11 22:17:13 INFO  CsvAccessDAO:76 - CSV file processing completed.
+2014-10-11 22:17:13 INFO  ShareAnalysisRunner:35 - Done Processing file :resource/test_shares_data.csv
+2014-10-11 22:17:24 INFO  ShareAnalysisRunner:25 - Starting Processing file :resource/test_shares_data.csv
+2014-10-11 22:17:24 INFO  CsvAccessDAO:76 - CSV file processing completed.
+2014-10-11 22:17:24 INFO  ShareAnalysisRunner:35 - Done Processing file :resource/test_shares_data.csv
